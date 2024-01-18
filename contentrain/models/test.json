@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "saSas",
+    "fieldId": "sasas",
+    "modelId": "test",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
